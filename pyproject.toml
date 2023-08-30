@@ -16,7 +16,7 @@ dependencies = [
 ]
 readme = "README.md"
 license = { file = "LICENSE" }
-requires-python = ">= 3.8"
+requires-python = ">= 3.10"
 
 [project.urls]
 Documentation = "https://python-pptx.readthedocs.io/en/latest"
